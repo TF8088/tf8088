@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/tf8088?template=classic&base.header=0&isocalendar=1&pagespeed=1&repositories=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&pagespeed.url=https%3A%2F%2Ftiagofarinha.netlify.app%2F&pagespeed.detailed=true&pagespeed.screenshot=true&config.timezone=Europe%2FLisbon)
+
